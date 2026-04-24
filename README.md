@@ -23,7 +23,7 @@ For scenario mode, it can analyze **both** the narrator and the person they're d
 ## Project Structure
 
 ```
-redflag_detector/
+behavioural_analysis/
 │
 ├── app.py                     ← Streamlit frontend (main entry point)
 │
